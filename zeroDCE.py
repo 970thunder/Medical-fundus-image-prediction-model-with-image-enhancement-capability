@@ -1,6 +1,6 @@
 # -*- codeing = utf-8 -*-
 # 科 研 小 分 队
-# @Author：李鑫
+# @Author：小泥人Hyper
 # 3/3/2025 下午6:37
 # @Fire : main.py
 # @Software: PyCharm
